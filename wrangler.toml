@@ -1,7 +1,4 @@
 name = "api-tratamento-flow-insc"
-main = "server.js"
+main = "worker.js"
 compatibility_date = "2025-11-03"
 compatibility_flags = ["nodejs_compat"]
-
-[observability]
-enabled = true
