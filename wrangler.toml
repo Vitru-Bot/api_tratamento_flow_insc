@@ -1,4 +1,4 @@
 name = "api-tratamento-flow-insc"
-main = "functions/worker.js"
+main = "functions/api.js"
 compatibility_date = "2025-11-03"
 compatibility_flags = ["nodejs_compat"]
